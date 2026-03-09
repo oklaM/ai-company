@@ -1,0 +1,9 @@
+{
+  "owner": "sendwealth",
+  "slug": "ai-company",
+  "displayName": "AI Company",
+  "latest": {
+    "version": "1.0.0",
+    "description": "完全自主的AI公司运营系统 - 7×24小时自动化发现需求、设计、开发、销售、运维"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "ai-company",
+  "version": "1.0.0",
+  "description": "完全自主的AI公司运营系统 - 7×24小时自动化发现需求、设计、开发、销售、运维",
+  "author": "sendwealth",
+  "tags": ["ai", "automation", "company", "business", "startup"],
+  "license": "MIT",
+  "repository": "https://github.com/sendwealth/ai-company"
+}
